@@ -1,0 +1,21 @@
+---
+length: 100-150 words...
+---
+
+# Biography
+
+I'm a Computing Science student in the 5th year of my MSci programme. My
+earlier research has included team organisation, experimental storytelling and
+sociotechnical systems modelling --- I find the intersection of studying people
+and computers fascinating.
+
+My current research is an attempt to introduce human behaviours, such as
+responsibility, into the behaviour of artificial systems. I'm especially
+interested in how these developments can influence other fields, such as urban
+development and philosophy. It's an exciting time to do interesting research!
+
+I'm looking forward to doing more research on developing computational models
+of human behaviours, and exploring how that research can bridge some of the
+divide between computing science and other disciplines. Interdisciplinary
+research is the most fascinating and interesting part of my time at university,
+and I'm excited to share what I enjoy with the Let's Talk About [X] audience!

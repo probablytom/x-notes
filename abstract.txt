@@ -1,0 +1,30 @@
+---
+length: 200-250 words...
+---
+
+# Abstract
+
+Interacting with our computers has always been cold and impersonal. What if
+that could change?
+
+Computer science research has produced software -- algorithms -- which produce
+human-like behaviour in a computer system like an artificial intelligence.
+This software, termed "anthropomorphic algorithms", guides an AI's behaviour in
+a human-like way. Examples of this behaviour might be an understanding of
+trust, comfort, and reputation; my own research is on using responsibility
+models to guide an AI's behaviour.
+
+It's clear that, as this research becomes more advanced, it will affect all
+sorts of fields in exciting ways. Philosophical questions arise: if a computer
+can have feelings and empathise, is it immoral to treat it badly? If a city can
+identify distress and panic after a crime, might it alter the environment on
+the citizens' behalf? If your phone has an understanding of regret, should it
+stop you from leaving your ex voicemails when you're drunk? There are some of
+the uses anthropomorphic algorithms might have in disciplines outside of
+computer science, and the potential is unbounded.
+
+With all of this potential impact, it's important to begin to explore the
+interdisciplinary impact of these algorithms. What fields might be impacted by
+these developments -- and how? It is becoming increasingly important, and
+increasingly valuable, to explore the applications of computers with human
+traits outside of computer science research.
