@@ -1,0 +1,101 @@
+Using Anthropomorphic Algorithms
+Tom Wallis
+What are Anthropomorphic Algorithms?
+So I can imagine one or two or many people might want “anthropomorphic algorithms” to be explained. . . it’s really not as complicated
+as the name makes it sound!
+An “algorithm” is basically just a piece of software. “Anthropomorphic” things are things with human traits. So, when I’m talking
+about “anthropomorphic algorithms”, I’m literally just talking about
+software that represents human behaviour in a computer.
+A really fun example that I like is the idea of a phone that can
+see that you’re drunk and trying to call your ex at 3 in the morning,
+and doesn’t let you make the call, to save you regretting leaving that
+voicemail the next day. And the software that would make that work
+might be called a “regret formalism”, or a computational model of
+regret.
+So an anthropomorphic algorithm is just that. They tend to exist
+for traits like trust, or comfort, and you can imagine building one for
+regret or empathy, too. So the research I want to tell you about is my
+formalism of responsibility, and my talk today is going to be on how
+we can use responsibility formalisms. I hope you find it interesting,
+because what I want to get across in this talk is that you can almost
+certainly do cool things in your field with this technology, and it
+would be great to see people use it in their own research.
+
+Why should you care?
+Urban Development
+To demonstrate: what happens if we develop a city with a sense of
+“responsibility”?
+Well, recently we’ve been building “smart cities”. A smart city
+uses a whole bunch of data and technology to make it work better.
+They might try to ease traffic or make wifi available everywhere for
+free. That city’s got a whole bunch of computers in it...what if we
+introduce responsibility to them?
+The city might identify things it was responsible for, like taking
+bins out when they were full, and discharge that responsibility by
+sending binmen to the full bins. That’s quite efficient: now there’s
+no need for binmen to spend their days doing a route of half-full
+bins, the city saves money, and we don’t have to put up with as much
+litter.
+
+using anthropomorphic algorithms
+
+Where responsibility’s really interesting is when you use it to
+identify how responsible other people are. So, imagine we built a
+city which analysed an injury on CCTV and identified whether AE
+or Minor Injuries was more likely to be responsible for treating the
+patient. Not only could the city contact the emergency services for
+the patient, but it’s sense of other people’s responsibility also saves
+time and money.
+That’s a really big deal.
+
+You can help
+You might notice that this sounds a lot like sci-fi. It is a lot like sci-fi.
+The thing is, as this technology gets better, applications like this are
+actually really feasible – and we need people doing the research now
+to make it happen then.
+Urban development is a strange subject to apply computing science to — but we’ve heard from a few speakers from Geography in
+this conference, and their talks have mostly been urban development.
+I wonder whether there are any geography students here who can
+actually think of their own applications, maybe in other fields?
+The point is: whatever your field is, there’s almost certainly an
+application of this technology for you. This goes particularly for the
+social sciences. One can imagine a hospital with empathy, and what
+we might be able to do with that. We’ve heard about responsible
+cities and regret-saving smartphones.
+There are weird examples too: did anyone read or watch Hitchhiker’s Guide To The Galaxy? There are doors in the series, “Sirius Cybernetics Corporation’s Genuine People Personalities” doors
+which delight in opening doors for people. It’s kind of strange. But
+this science fiction can become reality really quickly, so long as you’re
+interested in, say, designing doors. I wish my lamp would take pity
+on me and not be as bright when I’m hungover. Can someone design
+a lamp with pity? Please?
+These aren’t jokes, they’re reality. And that’s kind of cool! But it’s
+not computer scientists that should be making that happen: it’s you,
+the audience. What cool stuff can you make with this tech?
+
+Let’s get Nasty
+Here’s a conversation I had with my girlfriend recently: I was discussing how a phone with a sense of regret might quietly not send a
+text to your ex at three in the morning, because it might agree with
+your friends that you’ll really regret it in the morning. Her response:
+“Whoa. . . that’s too far! That’s some real 1984 Orwellian stuff: don’t
+
+2
+
+using anthropomorphic algorithms
+
+you think it’s verging on censorship?”
+. . . and she was right. The thing is, I’d never considered that. Computer scientists really shouldn’t be developing this stuff. Remember
+that quote from Jurassic Park? It goes: “your scientists were so preoccupied with whether or not they could that they didn’t stop to think
+if they should.”
+I think that’s true of a lot of the things computer scientists develop
+sometimes. The thing is, there’s rarely any input from humanities,
+from social scientists. That’s rarely where the money is.
+Well, here’s your chance. If you want to develop something neat,
+or you want to stop us developing something dumb, ask yourselves
+how this technology can impact your work. Or, maybe more interestingly, ask yourselves what problems you have day-to-day — like
+a blazing hangover — and ask whether anthropomorphic algorithms
+can solve that problem. I’ll bet everyone in this room can find something to solve with them — and I hope someone does.
+Thank you.
+
+3
+
+
